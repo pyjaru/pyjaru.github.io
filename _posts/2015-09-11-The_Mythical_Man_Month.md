@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 맨머스 미신
+title: 맨먼스 미신
+author: 프레더릭 브룩스,강중빈(역)
 tags: book
 ---
 

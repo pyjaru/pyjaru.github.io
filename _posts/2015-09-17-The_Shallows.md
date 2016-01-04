@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 생각하지 않는 사람들
+author: 니콜라스 카,최지향(역)
 tags: book
 ---
 

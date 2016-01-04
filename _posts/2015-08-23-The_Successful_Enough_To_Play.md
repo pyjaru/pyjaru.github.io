@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 노는만큼 성공한다
+author: 김정운
 tags: book
 ---
 

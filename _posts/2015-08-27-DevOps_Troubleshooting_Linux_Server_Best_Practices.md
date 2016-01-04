@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 데브옵스
+author: 카일 랜킨,조남웅,주성식,홍성민(역)
 tags: book
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: UX For Lean Startups
+author: 로라 클라인,김수영,박기석(역)
 tags: book
 ---
 

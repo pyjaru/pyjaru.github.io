@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 프로젝트 성패를 결정짓는 데이터 모델링 이야기
+author: 김상래
 tags: book
 ---
 

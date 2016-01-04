@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 네트워킹과 웹 성능 최적화 기법
+author: 일리아 그리고릭,정해권,오현주
 tags: book
 ---
 

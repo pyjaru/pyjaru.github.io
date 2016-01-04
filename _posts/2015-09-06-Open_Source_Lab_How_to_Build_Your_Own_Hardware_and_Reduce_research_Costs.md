@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 오픈소스 랩 - 나만의 하드웨어를 만들고 연구 비용을 줄이는 법
+author: 조슈아 M. 피어스,유호석,김은미(역)
 tags: book
 ---
 

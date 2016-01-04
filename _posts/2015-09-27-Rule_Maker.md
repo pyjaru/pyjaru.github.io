@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 룰 메이커
+author: 이제형,오수려,정미녕
 tags: book
 ---
 

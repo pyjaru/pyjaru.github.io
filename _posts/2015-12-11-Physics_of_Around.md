@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 세상 물정의 물리학
+author: 김범준
 tags: book
 ---
 

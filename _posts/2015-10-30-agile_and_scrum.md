@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 애자일 개발과 스크럼
+author: 노나카 이쿠지로,히라나베 겐지,이명교(역)
 tags: book
 ---
 

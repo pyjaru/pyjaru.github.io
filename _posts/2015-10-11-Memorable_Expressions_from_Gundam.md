@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 영원한 건담 어록
+author: 타니타 슌타로,이혁진(역)
 tags: book
 ---
 
