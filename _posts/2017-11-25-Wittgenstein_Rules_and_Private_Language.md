@@ -2,7 +2,7 @@
 layout: post
 title: 비트겐슈타인 규칙과 사적 언어
 author: 솔 크립키 (지은이), 남기창 (옮긴이)
-tags: book, 철학
+tags: book,philosophy
 ---
 
 ## 1.
