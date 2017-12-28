@@ -4,6 +4,38 @@ title: 나의 목표
 permalink: /goals/
 ---
 
+# 2018 목표
+
+## 대학원 수업
+* 1학기
+	* 미정
+	* 미정
+* 2학기
+	* 미정
+	* 미정
+* 논문주제 선정
+	* 함수형, 타입시스템, 모나드 그리고 범주론
+
+## Node.jS 프로젝트
+* JavaScript
+* Node.js
+* React.js or Vue.js
+
+## 엑셀을 잘 다루자!(~~데이터분석에 대해서 알아보자!~~, 2017년 못다한 나의 목표를 축소)
+* 엑셀을 잘 다루자!
+	* [회사에서 바로 통하는 엑셀 데이터 활용 + 분석](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=86488204)
+	* [엑셀을 활용한 마케팅 분석 기법](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=54526377)
+	* [앤더슨의 통계학](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=86829983)
+
+## 시스템 프로그래밍 공부
+* 컴퓨터 구조 with C
+* 윈도우 시스템 구조 with C++
+
+## 책을 쓰자!
+* (가칭) 7가지 프로젝트로 배워보는 Django(>= 2.0.0)
+
+======
+
 # 2017 목표 및 평가
 * 목표를 현실적으로 잡아야겠으나, 욕심을 줄이진 않아야겠다.
 
@@ -57,7 +89,7 @@ permalink: /goals/
 	* [~~판단력 비판~~](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=3733294)
 	* [~~실천이성비판~~](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=4470879)
 
-------
+======
 
 # 2016
 * 올해도 나름의 목표를 열심히 했고, 내년에도 꾸준히 도전하자!
